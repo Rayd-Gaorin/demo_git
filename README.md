@@ -1,2 +1,2 @@
 # demo_git
-Une demon de Git
+Une demo de Git qui se passe à merveille !
